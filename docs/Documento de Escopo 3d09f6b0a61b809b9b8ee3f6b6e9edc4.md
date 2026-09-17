@@ -41,7 +41,7 @@ tarefas hoje. | Definir a paleta de
 cores e a fonte que
 serão usadas no site. | Programar a função
 em JavaScript que
-salva uma nova tarefa
+salva uma nova t    arefa
 no navegador. | Tentar "quebrar" o
 campo de data,
 inserindo um texto em
